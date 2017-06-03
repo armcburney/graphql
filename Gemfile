@@ -6,4 +6,5 @@ ruby '2.4.0'
 
 gem 'activesupport', '~> 5.0'
 gem 'graphql'
+gem 'rubocop'
 gem 'terminal-table'
